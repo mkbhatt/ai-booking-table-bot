@@ -1,4 +1,4 @@
-# Booking Table At Hotel (AI) Sample Bot With Telegram As Front End | AI (Artificial Intelligence)
+# Booking Table At Hotel (AI) Sample Bot With Telegram As Front End | AI (Artificial Intelligence) [![Build Status](https://travis-ci.org/mkbhatt/ai-booking-table-bot.svg?branch=master)](https://travis-ci.org/mkbhatt/ai-booking-table-bot)
 
 AI (Artificial Intelligence) Bot Powers The Next Generation Conversation Experience And Machine Learning Making Every Day Complex Task For Human Much More Easier. In This Demo The AI Bot Is Loaded With 'Booking Table At Hotel' Model.
 
