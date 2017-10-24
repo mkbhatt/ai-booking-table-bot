@@ -1,0 +1,42 @@
+[
+  {
+    "text": "hi",
+    "label": "greet"
+  },
+  {
+    "text": "/start",
+    "label": "greet"
+  },
+  {
+    "text": "hello",
+    "label": "greet"
+  },
+  {
+    "text": "simple",
+    "label": "table_type"
+  },
+  {
+    "text": "couple",
+    "label": "table_type"
+  },
+  {
+    "text": "family",
+    "label": "table_type"
+  },
+  {
+    "text": "1234567890",
+    "label": "user_phone"
+  },
+  {
+    "text": "abc43_24fg@xyz.com",
+    "label": "user_email"
+  },
+  {
+    "text": "cancel",
+    "label": "cancel_order"
+  },
+  {
+    "text": "1",
+    "label": "reserve_seats"
+  }
+]

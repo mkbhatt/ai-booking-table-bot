@@ -1,0 +1,11 @@
+agent:
+  hotel_name: 'Hogwarts Group Of Hotels'
+  training_data: 'training-dataset.json'
+  telegram_bot_id: 'provide id here'
+  telegram_bot_token: 'provide token here'
+  # Update GMAIL SETTINGS : Allow Less Secure Apps Sign-In, Only If Using GMAIL SMTP SERVER
+  smtp_email: 'provide smtp mail here'
+  smtp_pass: 'provide smtp pass here'
+  smtp_server: 'provide smtp server here'
+  smtp_port: 'provide smtp port here'
+  
