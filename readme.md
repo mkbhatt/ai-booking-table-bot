@@ -4,7 +4,7 @@ AI (Artificial Intelligence) Bot Powers The Next Generation Conversation Experie
 
 Every Bot Needs Training Dataset To Learn And Give Positive Result To User By Using NLP(Natural Language Processing), In Order To Use This Bot You Need To Update The Logic Code And Tweak It A Bit To Identify "Intent Type" From User And Give More Humanly Meaningful Replies Back To User.
 
-:NOTE:
+NOTE:
 TRAINING WITH MORE DATASET WILL MAKE BOT RECOGNISE "INTENT TYPE" AND "SENTIMENTS" MORE EFFECTIVELY,
 WHICH WILL HELP THE BOT TO CREATE MORE MEANINGFUL CONVERSATIONS WITH USER
 
